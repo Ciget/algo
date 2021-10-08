@@ -1,23 +1,26 @@
 ﻿<Properties StartupConfiguration="{5A98A42B-F706-425E-BCB9-B065FFF1C555}|Default">
   <MonoDevelop.Ide.ItemProperties.Test PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../Test/DuplicateFinderTest.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Starter/BestPriceBuyingStock.cs">
     <Files>
       <File FileName="../Test/Main.cs" Line="9" Column="9" />
       <File FileName="../Starter/Program.cs" />
       <File FileName="../Starter/Provider.cs" />
       <File FileName="../Starter/NumberOfProvinces.cs" Line="32" Column="13" />
       <File FileName="../Test/numberOfProvincesTest.cs" Line="20" Column="27" />
-      <File FileName="../Starter/DuplicateFinder.cs" Line="1" Column="1" />
-      <File FileName="../Test/DuplicateFinderTest.cs" Line="2" Column="1" />
+      <File FileName="../Starter/DuplicateFinder.cs" Line="22" Column="14" />
+      <File FileName="../Test/DuplicateFinderTest.cs" Line="7" Column="20" />
+      <File FileName="../Test/MaxSubarrayTest.cs" Line="11" Column="15" />
+      <File FileName="../Test/BestPriceBuyingStockTest.cs" Line="12" Column="1" />
+      <File FileName="../Starter/BestPriceBuyingStock.cs" Line="6" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Algo" expanded="True">
-            <Node name="Starter" expanded="True" />
-            <Node name="Test" expanded="True">
-              <Node name="DuplicateFinderTest.cs" selected="True" />
+            <Node name="Starter" expanded="True">
+              <Node name="BestPriceBuyingStock.cs" selected="True" />
             </Node>
+            <Node name="Test" expanded="True" />
           </Node>
         </State>
       </Pad>
