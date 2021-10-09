@@ -13,8 +13,8 @@ namespace Test
         {
             int[] input = {1,3,6,9 };
             int [] result = sum.GetTwoNumbersByTarget(input, 10);
-            Assert.Equal(1, result[0]);
-            Assert.Equal(9, result[3]);
+            Assert.Equal(0, result[0]);
+            Assert.Equal(3, result[1]);
         }
     }
 }
